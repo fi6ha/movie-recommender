@@ -18,7 +18,7 @@ Install the required Python packages using pip:
 ```bash
 pip install streamlit pandas scikit-learn
 
-
+```
 
 ## Dataset Source
 
