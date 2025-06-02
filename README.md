@@ -22,8 +22,9 @@ pip install streamlit pandas scikit-learn
 
 ## Dataset Source
 
-The dataset used in this project is originally from Kaggle:
+The dataset used in this project (`tmdb_5000_movies.csv`) is **not included** in this repository due to licensing and redistribution restrictions.
 
-[TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+You can download the dataset yourself from Kaggle:  
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-All credit for the dataset goes to the original uploader on Kaggle.
+Please place the dataset CSV file in the project directory before running the app.
